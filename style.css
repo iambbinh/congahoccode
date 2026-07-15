@@ -1,8 +1,26 @@
-h1,
-h2 {
+body {
+  background-color: aliceblue;
+}
+h1 {
   color: blueviolet;
-  font-style: italic;
+  font-style: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 30px;
+  background-color: antiquewhite;
+}
+h2,
+h3 {
+  color: blueviolet;
+  font-style: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  text-align: left;
+  font-size: 22px;
 }
 p {
   color: rgb(125, 158, 586);
+  text-align: justify;
+  font-size: 18px;
 }
