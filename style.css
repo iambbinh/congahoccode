@@ -9,6 +9,10 @@ h1 {
   text-align: center;
   font-size: 30px;
   background-color: antiquewhite;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 h2,
 h3 {
@@ -18,6 +22,9 @@ h3 {
   text-transform: capitalize;
   text-align: left;
   font-size: 22px;
+}
+#muc-luc {
+  color: coral;
 }
 p {
   color: rgb(125, 158, 586);
