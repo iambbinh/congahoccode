@@ -26,6 +26,9 @@ h3 {
 #muc-luc {
   color: coral;
 }
+.about-text {
+  color: darkgoldenrod;
+}
 p {
   color: rgb(125, 158, 586);
   text-align: justify;
