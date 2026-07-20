@@ -9,3 +9,13 @@ p.css-select {
 div p {
   color: darkblue;
 }
+
+a.hover:link {
+  color: brown;
+}
+a.hover:visited {
+  color: blue;
+}
+a.hover:hover {
+  color: darkgreen;
+}
