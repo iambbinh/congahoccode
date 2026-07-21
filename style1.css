@@ -19,3 +19,12 @@ a.hover:visited {
 a.hover:hover {
   color: darkgreen;
 }
+div.empty {
+  background-color: antiquewhite;
+  width: 200px;
+  height: 200px;
+}
+h2#mo-bai:target,
+h2#than-bai:target {
+  color: blue;
+}
