@@ -28,3 +28,6 @@ h2#mo-bai:target,
 h2#than-bai:target {
   color: blue;
 }
+div.first p:first-child {
+  color: brown;
+}
