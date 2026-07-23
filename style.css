@@ -37,3 +37,15 @@ p {
 input:checked ~ img {
   display: none;
 }
+div.padding {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  padding: 20px 40px 40px 10px;
+  border: 2px solid rgb(78, 17, 6);
+  border-radius: 20px 0px 20px 0px;
+  margin: 0px auto;
+}
+div.padding p {
+  color: brown;
+}
